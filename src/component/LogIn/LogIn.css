@@ -1,0 +1,59 @@
+.inputField{
+    border: none;
+    margin: 30px;
+  
+}
+.inputField input{
+    width: 400px;
+    border: none;
+   background-color: rgb(235, 229, 229);
+   border-radius: 5px;
+   padding: 5px;
+}
+
+.input-area{
+    text-align: center;
+    border: 1px solid gray;
+    padding: 20px;
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 110px;
+    
+  
+    
+}
+.create-account-button input{
+    border-radius: 5px;
+    padding: 5px;
+    width: 400px;
+    background-color: salmon;
+    border: none;
+    margin: 20px;
+}
+.create-account-button{
+    border-top: 1px solid grey;
+    
+    
+}
+.create-account-button :hover{
+ 
+    color: white;
+}
+.input-form{
+    text-align: center;
+    margin: 10px;
+    margin-left: 500px;
+}
+.google-signin-section{
+    text-align: center;
+    margin: 30px;
+    
+}
+
+.google-signin-section button{
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+}

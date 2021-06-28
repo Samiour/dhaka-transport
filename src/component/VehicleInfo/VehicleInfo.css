@@ -1,0 +1,29 @@
+.vehicle-container img{
+    width: 250px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 20px;
+}
+.vehicle-container{
+    
+    margin: 20px;
+    width: 300px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 10px 20px 20px grey;
+    background-color: white;
+    height: 180px;
+    margin-top: 100px;
+    
+}
+
+.vehicle-container h3{
+    margin-top: 13px;
+    color: black;
+    text-decoration: none;
+}
+
+
+.vehicle-container h3:hover{
+    text-decoration: none;
+}

@@ -1,0 +1,37 @@
+.left-section{
+    margin: 50px;
+   
+    border-radius: 10px;
+    width: 450px;
+    text-align: center;
+    box-shadow: 15px 5px 10px grey;
+}
+.left-section form{
+    background-color: salmon;
+    border-radius: 10px;
+}
+
+.right-section{
+    margin: 50px;
+    margin-left: 200px;
+}
+.destination-form input{
+    margin: 20px;
+    text-decoration: none;
+    border: none;
+    background-color: rgb(240, 217, 217);
+    border-radius: 5px;
+   
+}
+
+.destination-form button{
+    border: none;
+    width: 100px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.ordered-vehicle{
+    box-shadow: 2px 5px 20px grey;
+    border-radius: 10px;
+}

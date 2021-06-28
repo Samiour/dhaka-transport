@@ -1,0 +1,23 @@
+nav li{
+    display: inline;
+    margin: 25px;
+   
+}
+
+.header-section{
+    display: flex;
+      
+}
+.title-section{
+    margin: 50px;
+    margin-left: 100px;
+    
+    
+}
+.nav-bar{
+    margin-left: 400px;
+    margin-top: 75px;
+}
+
+
+
